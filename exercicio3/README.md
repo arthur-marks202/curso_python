@@ -68,4 +68,4 @@ By each number in the `medical_data_visua` file, add the code from the associate
 
 - Do not modify the next two lines.
 
-GitPod link: https://gitpod.io#snapshot/d4dd3961-e861-4959-af97-02e003ab24d9
+GitPod link: [https://gitpod.io#snapshot/d4dd3961-e861-4959-af97-02e003ab24d9](https://gitpod.io/new/#snapshot/d4dd3961-e861-4959-af97-02e003ab24d9)

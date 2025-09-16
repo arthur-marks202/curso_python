@@ -42,4 +42,4 @@ For example, **`calculate([0,1,2,3,4,5,6,7,8])`** should return:
 ```
 
 ---
-Link GitPod: https://gitpod.io#snapshot/ec0b7853-96e2-464c-9c58-e423bbf92819
+Link GitPod: [https://gitpod.io#snapshot/ec0b7853-96e2-464c-9c58-e423bbf92819](https://gitpod.io/new/#snapshot/f3f67f5b-4ae2-43e0-bf99-9fbadadb9463)

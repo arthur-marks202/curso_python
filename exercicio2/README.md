@@ -48,4 +48,4 @@ Below is the sample rendered as a GitHub-compatible Markdown table.
 - Round all decimals to the nearest **tenth**.  
 ---
 
-Link GitPod:  https://gitpod.io#snapshot/2428d216-1fab-4861-a9b6-6dcdff79c24e
+Link GitPod:  [https://gitpod.io#snapshot/2428d216-1fab-4861-a9b6-6dcdff79c24e](https://gitpod.io/new/#snapshot/3c414380-58d3-4396-a832-753bbcf0cdf3)

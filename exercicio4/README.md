@@ -22,4 +22,4 @@ The boilerplate also includes commands to save and return the image.
 ### Testing 
 - The unit tests this project are in `test_modulo.py`. We imported the tests from `test_module.py` to `test_modulo.py` to your convenience.
 
-GitPod link: https://gitpod.io#snapshot/44430b68-0886-4f6b-8add-224323b9f4f5
+GitPod link: [https://gitpod.io#snapshot/44430b68-0886-4f6b-8add-224323b9f4f5](https://gitpod.io/new/#snapshot/44430b68-0886-4f6b-8add-224323b9f4f5)
